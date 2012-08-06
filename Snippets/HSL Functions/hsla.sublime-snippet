@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hsla(${1:H}, ${2:S}, ${3:L}, ${4:.9})$0
+]]></content>
+	<tabTrigger>hsla</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+	<description>Converts an hsl(hue, saturation, lightness) triplet into a color.</description>
+</snippet>

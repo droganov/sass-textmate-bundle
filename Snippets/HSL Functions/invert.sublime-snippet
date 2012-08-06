@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+invert(${1:color})$0
+]]></content>
+	<tabTrigger>invert</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+	<description>Makes a color lighter.</description>
+</snippet>

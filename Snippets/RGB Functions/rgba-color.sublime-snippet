@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rgba(${1:color}, ${2:.9})$0
+]]></content>
+	<tabTrigger>rgba</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+	<description>Adds an alpha layer to any color value.</description>
+</snippet>

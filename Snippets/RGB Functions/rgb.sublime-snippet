@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rgb(${1:R}, ${2:G}, ${3:B})$0
+]]></content>
+	<tabTrigger>rgb</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+	<description>Converts an rgb(red, green, blue) triplet into a color.</description>
+</snippet>
